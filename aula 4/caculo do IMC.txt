@@ -1,0 +1,22 @@
+ATIVIDADE: 
+DESELVOLVER UM APLICATIVO USANDO A LINGUAGEM C *(MS-DOS)PARA CALCULAR UM IMC
+
+IMC = peso
+ ---------------
+     2 altura
+
+//variáveis 
+
+IMC, peso,altura// numéricas não inteiras
+
+//entrada 
+peso, altura
+
+// procesamento
+
+IMC = peso / (altura * altura)
+
+
+
+//saida 
+IMC                                                                            
