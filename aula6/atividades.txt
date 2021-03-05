@@ -1,0 +1,17 @@
+ATIVIDADE 1: SISTEMA DE GESTÃO DA ACADEMIA (AULA 2 VARIÁVEIS)
+
+na tela principal adicionar um menu de opções:
+
+1. Gestão de funcionários
+2. Aluno
+3. Sobre
+
+SOBRE:
+desenvolvido por: seu nome
+sob a licença MIT
+GITHUB: link do porjeto no GITHUB
+
+customizar um ícone
+
+ATIVIDADE 2: Sistema de gestão escolar
+customizar um ícone.
